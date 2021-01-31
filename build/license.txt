@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yaoyao-genshin impact
+* source:	https://sketchfab.com/3d-models/yaoyao-genshin-impact-8708af3484534807b27d513d7c2c7e80
+* author:	clumsy ninja (https://sketchfab.com/Estefani.VidalEstrada08)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yaoyao-genshin impact" (https://sketchfab.com/3d-models/yaoyao-genshin-impact-8708af3484534807b27d513d7c2c7e80) by clumsy ninja (https://sketchfab.com/Estefani.VidalEstrada08) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-three-fiber/static/css/main.77067ca1.chunk.css",
+    "main.js": "/React-three-fiber/static/js/main.cc9b5cc4.chunk.js",
+    "main.js.map": "/React-three-fiber/static/js/main.cc9b5cc4.chunk.js.map",
+    "runtime-main.js": "/React-three-fiber/static/js/runtime-main.2f153c82.js",
+    "runtime-main.js.map": "/React-three-fiber/static/js/runtime-main.2f153c82.js.map",
+    "static/js/2.4ed40511.chunk.js": "/React-three-fiber/static/js/2.4ed40511.chunk.js",
+    "static/js/2.4ed40511.chunk.js.map": "/React-three-fiber/static/js/2.4ed40511.chunk.js.map",
+    "static/js/3.cb80b7d6.chunk.js": "/React-three-fiber/static/js/3.cb80b7d6.chunk.js",
+    "static/js/3.cb80b7d6.chunk.js.map": "/React-three-fiber/static/js/3.cb80b7d6.chunk.js.map",
+    "index.html": "/React-three-fiber/index.html",
+    "static/css/main.77067ca1.chunk.css.map": "/React-three-fiber/static/css/main.77067ca1.chunk.css.map",
+    "static/js/2.4ed40511.chunk.js.LICENSE.txt": "/React-three-fiber/static/js/2.4ed40511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f153c82.js",
+    "static/js/2.4ed40511.chunk.js",
+    "static/css/main.77067ca1.chunk.css",
+    "static/js/main.cc9b5cc4.chunk.js"
+  ]
+}
